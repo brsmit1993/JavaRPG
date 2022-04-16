@@ -1,0 +1,20 @@
+h1
+{
+color:#F1C40F;
+border-style: groove;
+border-width: 5px;
+border-color: #9B0000;
+font-family: "Times New Roman", Times, serif;
+font-weight: bold;
+font-size: 30px;
+}
+
+h2
+{
+color:#F1C40F;
+border-style: groove;
+border-width: 5px;
+border-color: #9B0000;
+font-family: "Times New Roman", Times, serif;
+font-weight: normal;
+}
